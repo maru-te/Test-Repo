@@ -1,6 +1,5 @@
 nithya
 shanth
-maruthy
 hema
 ajith
 niranjan
@@ -11,3 +10,6 @@ monisha
 
 part time employee
 mukesh 
+
+notice period employee
+maruthy
