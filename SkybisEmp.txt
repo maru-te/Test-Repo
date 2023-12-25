@@ -15,3 +15,5 @@ notice period employee
 maruthy
 
 product owner : aswin
+
+developer and co founder : sandeep
